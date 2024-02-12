@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndriiBozh
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java, NodeJS, JavaScript, React
-- 💞️ I’m looking to collaborate on anything involving Java, NodeJS, JavaScript, React to gain experience.
+- 🌱 I’m currently learning Java, NodeJS, JavaScript, React, TypeScript
+- 💞️ I’m looking to collaborate on anything involving Java, NodeJS, JavaScript, React, TypeScript to gain experience.
 - 📫 How to reach me: deux_jours_avant at hotmail.com
 
 <!---
